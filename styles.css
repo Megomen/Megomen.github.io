@@ -10,7 +10,8 @@ img { max-width:100%; }
 /************* End CSS RESETS **************/
 
 body {
-	background: linear-gradient(nulldeg,rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+	background-color: #3399CC;
+    background-image: linear-gradient(to bottom, #3399CC, #C3E0F0, #3399CC);
 	color: #2b88a0;
 	font-family: 'Source Sans Pro', sans-serif;
 	padding: 30px 0;

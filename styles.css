@@ -10,7 +10,6 @@ img { max-width:100%; }
 /************* End CSS RESETS **************/
 
 body {
-	background: #EEAECA;
 	background: linear-gradient(nulldeg,rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
 	color: #2b88a0;
 	font-family: 'Source Sans Pro', sans-serif;
